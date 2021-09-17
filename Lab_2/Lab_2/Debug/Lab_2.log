@@ -1,0 +1,25 @@
+﻿Построение начато 17.09.2021 13:45:28.
+     1>Проект "c:\Users\losharik 3\documents\visual studio 2010\Projects\Lab_2\Lab_2\Lab_2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab_2.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Lab_2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Lab_2.cpp
+         Lab_2.cpp
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(92): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(116): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(172): warning C4138: "*/" найден вне комментария
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(172): error C2059: синтаксическая ошибка: /
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(175): warning C4552: >: оператор не имеет результата; требуется оператор с побочным действием
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(175): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(175): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+     1>c:\users\losharik 3\documents\visual studio 2010\projects\lab_2\lab_2\lab_2.cpp(176): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>Построение проекта "c:\Users\losharik 3\documents\visual studio 2010\Projects\Lab_2\Lab_2\Lab_2.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:01.11
